@@ -38,7 +38,7 @@ The goal is to enable faster triage and response for support teams using a low-c
 
 ---
 
-## 💬 Sample Output
+## Sample Output
 
 | Task            | Sample Output                                  |
 |-----------------|------------------------------------------------|
