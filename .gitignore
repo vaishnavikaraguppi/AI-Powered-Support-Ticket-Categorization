@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Model files
+*.gguf
+*.bin
+
+# Dataset files
+*.csv
+*.tsv
+*.npy
+
+# VSCode settings
+.vscode/
+
+# Output files
+*.log
+*.out
+*.json
